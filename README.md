@@ -26,3 +26,7 @@ swap_float_4		swap a float
 	    ((*tni4>>8)&0xff00) | ((*tni4&0xff00)<<8));
 }
 ```
+
+By the way
+
+IT's just bytes order(little endian and big endian)
